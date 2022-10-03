@@ -13,19 +13,20 @@ body{
     height: 390px;
     border-radius: 10px;
     margin-right: 10px;
+    background-color: #f1ecf3;
 }
 
 .mahsulot:hover{
     border:#986cb6 2px solid;
-    box-shadow: 5px 5px 10px #9567b4;
+    box-shadow: 5px 7px 10px #9567b4;
 }
 
 .img2, .imgel{
-    background-color: #9567b4;
-    width: 45px;
-    height: 45px;
+    background-color: #672b8f;
+    width: 35px;
+    height: 35px;
     display: block;
-    border-radius: 35%;
+    border-radius: 40%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -41,13 +42,13 @@ body{
 }
 
 .img3{
-    width: 45px;
+    width: 35px;
     height: auto;
     display: block;
 }
 
 .imgel1{
-    width: 50px;
+    width: 35px;
     height: auto;
 }
 
@@ -144,6 +145,30 @@ h4{
     padding: 3px;
 }
 
+.ortaga{
+    display: flex;
+    margin: 0 auto;
+}
+
+.deel{
+    /* border: #672b8f 2px solid; */
+    border-radius: 20px;
+    background-color:#672b8f;
+    width: 180px;
+    padding: 3px;
+    margin: 0 auto;
+    transition: all 0.5s ease;
+}
+
+.mahsulot:hover .deel{
+    background-color:white;
+    box-shadow: 7px 7px 10px #672b8f;
+}
+
+.mahsulot:hover .yet{
+    color: #672b8f !important;
+}
+
 .mahsulot:hover .bolib{
     background-color: white;
     border: #672b8f 2px solid;
@@ -163,7 +188,7 @@ h4{
 
 .mahsulot:hover .imgel1{
     background-color:#672b8f;
-    border-radius: 35%;
+    border-radius: 40%;
 }
 
 .telefon, .bolib, .bord{
@@ -201,3 +226,27 @@ h4{
         margin: 10px auto;
     }
 }
+
+.mahsulot:hover .bord{
+    box-shadow: 5px 5px 8px #672b8f;
+}
+.mahsulot:hover .sotib{
+    text-shadow: 1px 1px 3px #ffffff;
+}
+
+.yeth{
+    margin: 0 auto;
+    background-color:#672b8f;
+    width: 60px;
+    border-radius: 20px;
+    color: white;
+}
+
+.mahsulot:hover .yeth{
+    background-color: white;
+    color:#672b8f;
+    box-shadow: 5px 5px 8px #672b8f;
+}
+
+
+
