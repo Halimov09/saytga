@@ -225,6 +225,8 @@ h4{
     } */
     .mahsulot{
         margin: 10px auto;
+        padding: 5px;
+        height: 400px;
     }
 }
 
