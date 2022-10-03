@@ -4,12 +4,13 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color:#eae4ee;
 }
 
 .mahsulot{
     margin-top: 100px;
     width: 220px;
-    border: 2px solid #d2c7da;
+    border: 2px solid #ffffff;
     height: 390px;
     border-radius: 10px;
     margin-right: 10px;
