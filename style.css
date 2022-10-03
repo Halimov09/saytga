@@ -206,7 +206,7 @@ h4{
 }
 
 .mahsulot:hover .img2{
-    transform: translateX(155px);
+    transform: translateX(125px);
 }
 
 .imgel{
@@ -214,7 +214,7 @@ h4{
 }
 
 .mahsulot:hover .imgel{
-    transform: translateX(-155px);
+    transform: translateX(-125px);
 }
 
 
