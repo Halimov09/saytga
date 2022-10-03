@@ -4,17 +4,17 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:#eae4ee;
+    background-color:#efecf1;
 }
 
 .mahsulot{
     margin-top: 100px;
     width: 220px;
-    border: 2px solid #ffffff;
+    border: 2px solid #bba8c9;
     height: 390px;
     border-radius: 10px;
     margin-right: 10px;
-    background-color: #f1ecf3;
+    background-color: #ffffff;
 }
 
 .mahsulot:hover{
