@@ -25,6 +25,10 @@ body{
     box-shadow: 5px 7px 10px #9567b4;
 }
 
+h1{
+    padding: 15px;
+}
+
 .img2, .imgel{
     background-color: #672b8f;
     width: 35px;
