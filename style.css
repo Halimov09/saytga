@@ -14,7 +14,6 @@ body{
     margin-top: 100px;
     width: 220px;
     border: 2px solid #bba8c9;
-    height: 390px;
     border-radius: 10px;
     margin-right: 10px;
     background-color: #ffffff;
@@ -48,8 +47,6 @@ h1{
 .delivery{
     padding: 7px;
     display: flex;
-    justify-content: space-between;
-    align-items:center;
 }
 
 .img3{
@@ -68,8 +65,8 @@ h1{
 }
 
 .img{
-    width: 150px;
-    height: 150px;
+    width: 270px;
+    height: 280px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -84,7 +81,7 @@ h1{
 
 
 .telefon{
-    width: 130px;
+    width: 190px;
     height: auto;
 }
 
@@ -207,10 +204,7 @@ h4{
     transition: all 0.5s ease;
 }
 
-.mahsulot:hover .telefon{
-    width: 150px;
-    height: auto;
-}
+
 
 .img2{
     transition: all 0.7s ease;
@@ -238,7 +232,7 @@ h4{
 
     .mahsulot{
         margin: 10px auto;
-        height: 400px;
+        height: 250px !important;
         margin: 5px;
 
     }
@@ -270,4 +264,13 @@ h4{
 }
 
 
+.imgg{
+    width: 120px;
+    height: auto;
+}
+
+.telefonn{
+    width: 80px;
+    height: auto;
+}
 
