@@ -71,7 +71,7 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 35px;
 }
 
 .all{
@@ -235,7 +235,7 @@ h4{
 
     .mahsulot{
         margin: 10px auto;
-        height: 300px !important;
+        height: 350px !important;
         margin: 5px;
 
     }
@@ -285,6 +285,7 @@ h4{
 .alll{
     display:flex;
     justify-content: center;
+    margin-top: 50px;
 }
 
 
