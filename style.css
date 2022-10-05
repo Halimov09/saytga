@@ -83,6 +83,7 @@ h1{
 .telefon{
     width: 190px;
     height: auto;
+    margin-bottom: 70px;
 }
 
 .money{
@@ -265,12 +266,22 @@ h4{
 
 
 .imgg{
-    width: 120px;
+    width: 100px;
     height: auto;
+    background-color: white;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    border:#be9fd3 1px solid;
 }
 
 .telefonn{
     width: 80px;
     height: auto;
+}
+
+.alll{
+    display:flex;
+    justify-content: center;
 }
 
