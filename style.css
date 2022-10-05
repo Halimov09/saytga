@@ -1,5 +1,5 @@
 body{
-    background-color:#efecf1;
+    background-color:#ffffff;
 }
 
 .body{
@@ -14,10 +14,10 @@ body{
     margin-top: 100px;
     width: 420px;
     height: 300px !important;
-    border: 2px solid #bba8c9;
+    border: 2px solid #bba5ca;
     border-radius: 10px;
     margin-right: 10px;
-    background-color: #ffffff;
+    background-color: #e8e2ec;
 }
 
 .mahsulot:hover{
